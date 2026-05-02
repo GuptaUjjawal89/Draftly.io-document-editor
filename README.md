@@ -234,4 +234,4 @@ Ensure you're on Node.js 18+. Tailwind v4 requires a modern Node environment.
 
 ## License
 
-Private repository. All rights reserved © Ajaia LLC.
+Private repository. All rights reserved © Ujjawal Gupta.
