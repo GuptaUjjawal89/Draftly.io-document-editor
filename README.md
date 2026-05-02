@@ -1,4 +1,4 @@
-# Draftly — Lightweight Collaborative Document Editor
+# Draftly.io — Lightweight Collaborative Document Editor
 
 A fast, minimal document workspace for individuals and small teams. Built with Next.js 15, TipTap rich-text editor, and Tailwind CSS. No backend required — runs entirely in the browser with localStorage persistence.
 
@@ -234,4 +234,4 @@ Ensure you're on Node.js 18+. Tailwind v4 requires a modern Node environment.
 
 ## License
 
-Private repository. All rights reserved © Ajaai LLC.
+Private repository. All rights reserved © Ajaia LLC.
